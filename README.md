@@ -1,4 +1,4 @@
-# 👋 Hi, I'm 刘畅 (@ll112211)
+# 👋 Hi, I'm 刘畅
 
 Welcome to my GitHub profile! I'm a passionate developer based in [china] with a love for React and Nest.
 
